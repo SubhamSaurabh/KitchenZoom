@@ -6,5 +6,10 @@ We are heading towards both problems and solutions of the canteen. Modern handhe
 # Objective
 The prime objective of this project was to solve the basic problems that the management and students are facing in our day today life. These problems include shortage of food, wastage of food, excess money being charged etc.
 
+# Features
+  Some of the features of this app are mentioned below.
+  • Notify the kitchen supervisor about the exact number of people will having a meal before the preparation of food.
+  • Calculate the appropriate of canteen bill for veg and non-veg separately.
+
 # Team members
 Ritika Kumari, K.Puspalata, Abhilash Naik and Subham Saurabh
