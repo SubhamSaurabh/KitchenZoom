@@ -8,7 +8,9 @@ The prime objective of this project was to solve the basic problems that the man
 
 # Features
   Some of the features of this app are mentioned below.
+  
   • Notify the kitchen supervisor about the exact number of people will having a meal before the preparation of food.
+  
   • Calculate the appropriate of canteen bill for veg and non-veg separately.
 
 # Team members
