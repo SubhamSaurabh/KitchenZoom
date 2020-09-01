@@ -1,0 +1,14 @@
+const USER={
+    LOGIN: 'USER_LOGIN',
+    LOGIN_SUCCESS: 'USER_LOGIN_SUCCESS',
+    LOGIN_FAIL: 'USER_LOGIN_FAIL',
+    EMAIL:'SET_EMAIL',
+    LOGOUT: 'USER_LOGOUT'
+}
+
+const DEVICE={
+    FREQUENCY: 'FREQ'
+    
+}
+
+export {USER};
